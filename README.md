@@ -17,6 +17,11 @@
 
 ---
 
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ing-chan&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=3fb950&include_all_commits=true&count_private=true" alt="Ing-chan's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-chan&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&langs_count=8" alt="Ing-chan's Top Languages" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -32,14 +37,14 @@
 </p>
 
 ---
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ing-chan/Ing-chan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ing-chan/Ing-chan/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Ing-chan/Ing-chan/output/github-contribution-grid-snake.svg">
 </picture>
 
---- 
+--- -->
 
 ### 📫 Contatti
 
