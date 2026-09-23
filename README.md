@@ -26,12 +26,12 @@
 
 ### 🛠️ Tech Stack & Tools
 
-#### Linguaggi principali
+#### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,java,js,ts" alt="Languages" />
 </p>
 
-#### Ambiente, OS & Tooling
+#### OS & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,vscode,vim" alt="Tools & OS" />
 </p>
