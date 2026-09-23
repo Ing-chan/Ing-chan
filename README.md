@@ -33,7 +33,9 @@
 
 ---
 
-### 📫 Contatti e Social
+### 📫 Contatti
+
+
 
 <p>
   <a href="https://linkedin.com/in/samuele-celedi" target="_blank">
