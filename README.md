@@ -18,8 +18,8 @@
 ---
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ing-chan&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=3fb950" alt="Ing-chan's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ing-chan&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&langs_count=8" alt="Ing-chan's Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ing-chan&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=3fb950&hide_border=true" alt="Ing-chan's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ing-chan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Ing-chan's Top Languages" />
 </p>
 
 ---
