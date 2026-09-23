@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,java,js,ts" alt="Languages" />
 </p>
 
-#### OS & Tooling
+#### OS & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,vscode,vim" alt="Tools & OS" />
 </p>
@@ -46,7 +46,7 @@
 
 --- -->
 
-### 📫 Contacts
+### 📫 Connect with me:
 
 <p>
   <a href="https://linkedin.com/in/samuele-celedi" target="_blank">
