@@ -55,7 +55,3 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Ing-chan&color=blueviolet&style=flat-square)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ing-chan&color=00FF66&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor Counter" />
-</p>
