@@ -33,19 +33,6 @@
 
 ---
 
-### 📊 Statistiche GitHub
-
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ing-chan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-chan&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ing-chan&theme=tokyonight" alt="Ing-chan GitHub Streak" />
-</p>
-
----
-
 ### 📫 Contatti e Social
 
 <p>
