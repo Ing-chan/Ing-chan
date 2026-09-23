@@ -20,6 +20,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ing-chan&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=3fb950" alt="Ing-chan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-chan&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Ing-chan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ing-chan&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=3fb950&v=1" />
 </p>
 
 ---
