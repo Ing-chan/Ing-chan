@@ -13,9 +13,7 @@
 ### 👨‍💻 Chi sono
 
 - 🔭 Sto lavorando su progetti legati a **Cybersecurity, Cloud, AI e Development**.
-- 🏆 Appassionato di **CTF (Capture The Flag)** e sicurezza informatica.
 - 🎓 Percorso di studi in **Ingegneria Informatica**.
-- 💬 Chiedimi di **C/C++, Python, Linux internals o Reverse Engineering**.
 
 ---
 
@@ -23,7 +21,7 @@
 
 #### Linguaggi principali
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,java,js,ts" alt="Languages" />
 </p>
 
 #### Ambiente, OS & Tooling
@@ -34,8 +32,6 @@
 ---
 
 ### 📫 Contatti
-
-
 
 <p>
   <a href="https://linkedin.com/in/samuele-celedi" target="_blank">
