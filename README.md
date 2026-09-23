@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hi!+I'm+Samuele+(Ing-chan);Cybersecurity+%26+Software;Computer+Engineering;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hi!+I'm+Samuele+;Cybersecurity+%26+Software;Computer+Engineering;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/samuele-celedi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:misteringsan@gmail.com">
+  <a href="mailto:samueleceledi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
