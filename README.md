@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 Chi sono
+### 👨‍💻 whoami
 
 - 🔭 Sto lavorando su progetti legati a **Cybersecurity, Cloud, AI e Development**.
 - 🎓 Percorso di studi in **Ingegneria Informatica**.
